@@ -1,6 +1,6 @@
 ===================================
 this file i found on website xda and i make the script for simpelling with comand bash
-===================================
+==============================
 
 HOW TO MAKE ?
 
