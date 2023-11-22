@@ -18,4 +18,3 @@ you must compile you source kernel until success just remember that
 
 5. read this for not wrong step !!!!
 ===================================
-===========================
