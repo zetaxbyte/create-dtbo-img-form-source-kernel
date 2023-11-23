@@ -16,5 +16,7 @@ you must compile you source kernel until success just remember that
 
 5. after that you just simplly bash make-dtbo-img.sh that script, it will make dtbo.img automaticly 
 
-5. read this for not wrong step !!!!
+6. and then go check on folder out of you source kernel out/arch/arm64/boot you will see dtbo.img partition
+
+7. read this for not wrong step !!!!
 ===================================
