@@ -8,11 +8,9 @@ HOW TO MAKE ?
 read !!!
 you must compile you source kernel until success just remember that
 
-2. okay, if you success compile you kernel, just go to direktory when you after clone this repository
+2. okay, if you success compile you kernel,
 
-3. move the folder creat-dtbo-img on inside this repository to you inside you source kernel
-
-4. after you move the create-dtbo-img folder to you source kernel, and then just open the create-dtbo-img folder you will see the make-dtbo-img.sh 
+3. then clone this repositry, and go to folder create-dtbo-img
 
 5. after that you just simplly bash make-dtbo-img.sh that script, it will make dtbo.img automaticly 
 
