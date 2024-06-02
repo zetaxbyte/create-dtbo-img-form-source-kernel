@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# script bash x python 
+# script bash x python
 # by t.me/@zetaxbyte --> you can rich me on telegram
 
 # Color Tags
