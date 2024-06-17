@@ -9,7 +9,7 @@ green="\033[92m"
 cyan="\033[96m"
 normal="\033[0m"
 
-if ! [ -d ../../out/arch/arm64/boot/dts/qcom ] ; then
+if [ -d ../../out/arch/arm64/boot/dts/qcom ] ; then
 sleep 1
 echo -e "\n$cyan============================"
 echo -e "$cyan MAKE DTBO.IMG FROM DTB0 ..."
